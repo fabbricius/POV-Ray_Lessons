@@ -36,7 +36,61 @@ There are probably more useful resources.
 
 ## Felbrigg's POV-Ray lessons
 
-add some text here
+The playlist can be found [here]().
+
+### Lesson 1: the ball
+[Lesson 1](https://youtu.be/WZrY32jSjvU?si=BBC-pyFwAEIXhicq) introduces you to POV-Ray, what it can do.
+You will create a nice ball:
+insert here a screenshot
+
+The code can be found here.
+
+
+### Lesson 2: understanding the coordinates
+[Lesson 2](https://youtu.be/cMyR0iJhfZQ?si=kbSwNwvG8zO5SxcN) shows you how POV-Ray places the objects.
+
+insert here a screenshot
+
+The code can be found here.
+
+### Lesson 3: cylinder, box. Rotations.
+[Lesson 3](https://youtu.be/KmuAVfU3tws?si=LVVq52GlPYtq5Cz5)
+
+insert here a screenshot
+
+The code can be found here.
+
+### Lesson 4: include file, box rotate and translate
+[Lesson 4](https://youtu.be/JzeOWELZ2NY?si=Mnr5MlrJHIYlrYwE)
+
+insert here a screenshot
+
+The code can be found here.
+
+### Lesson 5: comments, background and plane
+[Lesson 5](https://youtu.be/NmcX--iYxBI?si=_pd0X17m1hx7lswJ)
+
+insert here a screenshot
+
+The code can be found here.
+
+### Lesson 6: torus, scale, triangle, declare, union, while
+[Lesson 6](https://youtu.be/K00Q_Zc_KrU?si=5dUj-BlhDQ8ZC7KL)
+This lesson is longer. You will create a jet engine the smart way, by repeating things.
+
+insert here a screenshot
+
+The code can be found here.
+
+### Lesson 7: Constructive Solid Geometry
+[Lesson 7](https://youtu.be/p7MivkXrzlc?si=jPswY7OjegrCxN-0)
+You will learn about diff, union, merge, intersection. This lesson also shows color pigments.
+
+insert here a screenshot
+
+The code can be found here.
+
+
 
 ## Joe Mercer's POV-Ray lessons
 
