@@ -32,11 +32,13 @@ POV-Ray lessons somewhere).
 
 There are probably more useful resources.
 
-### Youtube POV-Ray tutorials:
+
+Now, the lessons:
+
 
 ## Felbrigg's POV-Ray lessons
 
-The playlist can be found [here]().
+The playlist can be found [here](https://youtube.com/playlist?list=PLmsmiTEKs42uwPUFC06tFV9_4OlZLfOZi&si=bBx6W82t9Y6suvpp).
 
 ### Lesson 1: the ball
 [Lesson 1](https://youtu.be/WZrY32jSjvU?si=BBC-pyFwAEIXhicq) introduces you to POV-Ray, what it can do.
