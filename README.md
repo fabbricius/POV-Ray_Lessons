@@ -46,8 +46,8 @@ The playlist can be found [here](https://youtube.com/playlist?list=PLmsmiTEKs42u
 [Lesson 1](https://youtu.be/WZrY32jSjvU?si=BBC-pyFwAEIXhicq) introduces you to POV-Ray, what it can do.
 
 You will create a nice ball:
+![ball](screenshots/Felbrigg_lesson1_screen1.png)
 
-insert here a screenshot
 
 The code can be found [here](Felbrigg/lesson1).
 
