@@ -3,7 +3,7 @@ Code of YouTube POV-Ray tutorials. It will be easier for you to experiment with.
 
 This repo contains the codes shown in the YT POV-Ray tutorials I could find. There are two folders: 
 
-[Felbrigg](#Felbrigg's POV-Ray lessons) and [Joe Mercer](#Joe Mercer's POV-Ray lessons)
+[Felbrigg](#felbriggs-pov-ray-lessons) and [Joe Mercer](#joe-mercers-pov-ray-lessons)
 
 There is also a **screenshots** folder that contains the images used
 in this readme.
