@@ -34,7 +34,7 @@ There are probably more useful resources.
 
 
 Now, the lessons:
-\ \
+&nbsp;&nbsp;
 
 
 ## Felbrigg's POV-Ray lessons
@@ -43,7 +43,7 @@ The playlist can be found [here](https://youtube.com/playlist?list=PLmsmiTEKs42u
 
 
 ### Lesson 1: the ball
-[Lesson 1](https://youtu.be/WZrY32jSjvU?si=BBC-pyFwAEIXhicq) introduces you to POV-Ray, what it can do.
+[Lesson 1 on Youtube](https://youtu.be/WZrY32jSjvU?si=BBC-pyFwAEIXhicq) introduces you to POV-Ray, what it can do.
 
 You will create a nice ball:
 ![ball](screenshots/Felbrigg_lesson1_screen1.png)
@@ -55,35 +55,35 @@ The code can be found [here](Felbrigg/lesson1).
 
 
 ### Lesson 2: understanding the coordinates
-[Lesson 2](https://youtu.be/cMyR0iJhfZQ?si=kbSwNwvG8zO5SxcN) shows you how POV-Ray places the objects.
+[Lesson 2 on Youtube](https://youtu.be/cMyR0iJhfZQ?si=kbSwNwvG8zO5SxcN) shows you how POV-Ray places the objects.
 
 ![coordinates](screenshots/Felbrigg_lesson2_screen1.png)
 
-The code can be found [here](Felbrigg/lesson2).
+The code can be found in [Felbrigg/lesson2](Felbrigg/lesson2).
 
 
 
 
 ### Lesson 3: cylinder, box. Rotations.
-[Lesson 3](https://youtu.be/KmuAVfU3tws?si=LVVq52GlPYtq5Cz5)
+[Lesson 3 on Youtube](https://youtu.be/KmuAVfU3tws?si=LVVq52GlPYtq5Cz5)
 
 ![axes](screenshots/Felbrigg_lesson3_screen1.png)
 
-The code can be found [in Felbrigg/lesson3](Felbrigg/lesson3).
+The code can be found in [Felbrigg/lesson3](Felbrigg/lesson3).
 
 
 
 ### Lesson 4: include file, box rotate and translate
-[Lesson 4](https://youtu.be/JzeOWELZ2NY?si=Mnr5MlrJHIYlrYwE)
+[Lesson 4 on Youtube](https://youtu.be/JzeOWELZ2NY?si=Mnr5MlrJHIYlrYwE)
 
+![boxes](screenshots/Felbrigg_lesson4_screen1.png)
 
-
-The code can be found here.
+The code can be found in [Felbrigg/lesson4](Felbrigg/lesson4).
 
 
 
 ### Lesson 5: comments, background and plane
-[Lesson 5](https://youtu.be/NmcX--iYxBI?si=_pd0X17m1hx7lswJ)
+[Lesson 5 on Youtube](https://youtu.be/NmcX--iYxBI?si=_pd0X17m1hx7lswJ)
 
 insert here a screenshot
 
@@ -92,7 +92,7 @@ The code can be found here.
 
 
 ### Lesson 6: torus, scale, triangle, declare, union, while
-[Lesson 6](https://youtu.be/K00Q_Zc_KrU?si=5dUj-BlhDQ8ZC7KL)
+[Lesson 6 on Youtube](https://youtu.be/K00Q_Zc_KrU?si=5dUj-BlhDQ8ZC7KL)
 This lesson is longer. You will create a jet engine the smart way, by repeating things.
 
 insert here a screenshot
@@ -102,7 +102,7 @@ The code can be found here.
 
 
 ### Lesson 7: Constructive Solid Geometry
-[Lesson 7](https://youtu.be/p7MivkXrzlc?si=jPswY7OjegrCxN-0)
+[Lesson 7 on Youtube](https://youtu.be/p7MivkXrzlc?si=jPswY7OjegrCxN-0)
 You will learn about diff, union, merge, intersection. This lesson also shows color pigments.
 
 insert here a screenshot
