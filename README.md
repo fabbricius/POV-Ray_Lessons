@@ -34,7 +34,8 @@ There are probably more useful resources.
 
 
 Now, the lessons:
-&nbsp;&nbsp;
+
+
 
 
 ## Felbrigg's POV-Ray lessons
@@ -85,9 +86,9 @@ The code can be found in [Felbrigg/lesson4](Felbrigg/lesson4).
 ### Lesson 5: comments, background and plane
 [Lesson 5 on Youtube](https://youtu.be/NmcX--iYxBI?si=_pd0X17m1hx7lswJ)
 
-insert here a screenshot
+![planes](screenshots/Felbrigg_lesson5_screen1.png)
 
-The code can be found here.
+The code can be found in [Felbrigg/lesson5](Felbrigg/lesson5).
 
 
 
