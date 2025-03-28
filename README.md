@@ -36,16 +36,21 @@ There are probably more useful resources.
 Now, the lessons:
 
 
+
 ## Felbrigg's POV-Ray lessons
 
 The playlist can be found [here](https://youtube.com/playlist?list=PLmsmiTEKs42uwPUFC06tFV9_4OlZLfOZi&si=bBx6W82t9Y6suvpp).
 
+
 ### Lesson 1: the ball
 [Lesson 1](https://youtu.be/WZrY32jSjvU?si=BBC-pyFwAEIXhicq) introduces you to POV-Ray, what it can do.
+
 You will create a nice ball:
+
 insert here a screenshot
 
 The code can be found here.
+
 
 
 ### Lesson 2: understanding the coordinates
@@ -55,12 +60,16 @@ insert here a screenshot
 
 The code can be found here.
 
+
+
 ### Lesson 3: cylinder, box. Rotations.
 [Lesson 3](https://youtu.be/KmuAVfU3tws?si=LVVq52GlPYtq5Cz5)
 
 insert here a screenshot
 
 The code can be found here.
+
+
 
 ### Lesson 4: include file, box rotate and translate
 [Lesson 4](https://youtu.be/JzeOWELZ2NY?si=Mnr5MlrJHIYlrYwE)
@@ -69,12 +78,16 @@ insert here a screenshot
 
 The code can be found here.
 
+
+
 ### Lesson 5: comments, background and plane
 [Lesson 5](https://youtu.be/NmcX--iYxBI?si=_pd0X17m1hx7lswJ)
 
 insert here a screenshot
 
 The code can be found here.
+
+
 
 ### Lesson 6: torus, scale, triangle, declare, union, while
 [Lesson 6](https://youtu.be/K00Q_Zc_KrU?si=5dUj-BlhDQ8ZC7KL)
@@ -83,6 +96,8 @@ This lesson is longer. You will create a jet engine the smart way, by repeating 
 insert here a screenshot
 
 The code can be found here.
+
+
 
 ### Lesson 7: Constructive Solid Geometry
 [Lesson 7](https://youtu.be/p7MivkXrzlc?si=jPswY7OjegrCxN-0)
