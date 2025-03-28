@@ -53,12 +53,14 @@ The code can be found [here](Felbrigg/lesson1).
 
 
 
+
 ### Lesson 2: understanding the coordinates
 [Lesson 2](https://youtu.be/cMyR0iJhfZQ?si=kbSwNwvG8zO5SxcN) shows you how POV-Ray places the objects.
 
-insert here a screenshot
+![coordinates](screenshots/Felbrigg_lesson2_screen1.png)
 
-The code can be found here.
+The code can be found [here](Felbrigg/lesson2).
+
 
 
 
