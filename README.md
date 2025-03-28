@@ -34,7 +34,7 @@ There are probably more useful resources.
 
 
 Now, the lessons:
-
+\ \
 
 
 ## Felbrigg's POV-Ray lessons
@@ -67,16 +67,16 @@ The code can be found [here](Felbrigg/lesson2).
 ### Lesson 3: cylinder, box. Rotations.
 [Lesson 3](https://youtu.be/KmuAVfU3tws?si=LVVq52GlPYtq5Cz5)
 
-insert here a screenshot
+![axes](screenshots/Felbrigg_lesson3_screen1.png)
 
-The code can be found here.
+The code can be found [in Felbrigg/lesson3](Felbrigg/lesson3).
 
 
 
 ### Lesson 4: include file, box rotate and translate
 [Lesson 4](https://youtu.be/JzeOWELZ2NY?si=Mnr5MlrJHIYlrYwE)
 
-insert here a screenshot
+
 
 The code can be found here.
 
