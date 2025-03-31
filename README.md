@@ -116,6 +116,16 @@ You will learn about diff, union, merge, intersection. This lesson also shows co
 The code can be found in [Felbrigg/lesson7](Felbrigg/lesson7).
 
 
+### Bonus: POV-Ray tip for a failing difference
+[Bonus ("Lesson 8") on Youtube](https://youtu.be/q2I1ojhf2SM?si=BOLskU032BTEsRqD)
+
+A small tip when objects obtained by the mean of a "diff" are failing.
+
+![bonus](screenshots/Felbrigg_lesson8_bonus1.png)
+
+The code can be found in [Felbrigg/bonus](Felbrigg/bonus).
+
+
 
 ## Joe Mercer's POV-Ray lessons
 
