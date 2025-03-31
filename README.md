@@ -10,10 +10,7 @@ in this readme.
 
 Both are good introductions, unfortunately they are not finished. Both
 tutorials were supposed to be longer, but they stop after 7 or 8
-lessons. They end both with "in the next lesson, we'll cover xxxx" but
-there is **no** next lesson unfortunately. As far as I understand,
-Felbrigg started to be paid to do a more complete course for a
-learning company, and Joe Mercer simply stopped his courses.
+lessons. Too bad !
 
 In any case, I thank Felbrigg and Joe Mercer for what the lessons they
 uploaded on youtube and I am grateful they did that. You have a nice
@@ -29,11 +26,13 @@ POV-Ray lessons somewhere).
 
 * Friedrich A. Lohmüller [tutorial](https://www.f-lohmueller.de/index.htm), available in several languages. Friedrich is now deceased (RIP) but thanks to his wife his work did not disappear.
 
+* Build a [Tron lightcycle in POV-Ray](https://youtu.be/AxiEZKNh_1E?si=KYf5Cmt4f5NAG5ni). This youtube lesson made by Pixelpaws 3D is very nice. The code is not included on this github repository, you can find it on the video description for a small fee. Direct link to scene [here](https://pixelpaws3d.gumroad.com/l/atbbf). Find more on his [Artstation space](https://www.artstation.com/dcmarriott).
 
 There are probably more useful resources.
 
 
 Now, the lessons:
+
 
 
 
