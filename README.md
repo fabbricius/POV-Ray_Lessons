@@ -96,11 +96,12 @@ The code can be found in [Felbrigg/lesson5](Felbrigg/lesson5).
 [Lesson 6 on Youtube](https://youtu.be/K00Q_Zc_KrU?si=5dUj-BlhDQ8ZC7KL)
 This lesson is longer. You will create a jet engine the smart way, by repeating things.
 
-You will go from this basic shape:
+You will go from this basic torus:
 ![basic torus](screenshots/Felbrigg_lesson6_screen1.png)
-to this:
+
+to this super cool jet engine:
 ![engine](screenshots/Felbrigg_lesson6_screen2.png)
-isn't it cool ?
+Nice, isn't it ?
 
 The code can be found in [Felbrigg/lesson6](Felbrigg/lesson6).
 
@@ -108,11 +109,11 @@ The code can be found in [Felbrigg/lesson6](Felbrigg/lesson6).
 
 ### Lesson 7: Constructive Solid Geometry
 [Lesson 7 on Youtube](https://youtu.be/p7MivkXrzlc?si=jPswY7OjegrCxN-0)
-You will learn about diff, union, merge, intersection. This lesson also shows color pigments.
+You will learn about diff, union, merge, intersection. This lesson also shows color pigments, transparency.
 
-insert here a screenshot
+![engine](screenshots/Felbrigg_lesson7_screen1.png)
 
-The code can be found here.
+The code can be found in [Felbrigg/lesson7](Felbrigg/lesson7).
 
 
 
