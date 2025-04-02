@@ -137,9 +137,12 @@ There is no code on this lesson.
 
 
 ### Lesson 1: 
-[Lesson 1 on Youtube](https://youtu.be/1ZDWcEQrqsc?si=FIgKVPUI63EIWVwX) 
+[Lesson 1 on Youtube](https://youtu.be/1ZDWcEQrqsc?si=FIgKVPUI63EIWVwX) Getting started. You will create balls and learn about colors.
 
-![balls](screenshots/JoeMercer_lesson1_bonus1.png)
+Here is what you will create:
+![balls](screenshots/JoeMercer_lesson1_screen1.png)
+
+Nice start, isn't it?
 
 The code can be found [here](JoeMercer/lesson1).
 
