@@ -158,3 +158,13 @@ It is used to create a realistic sky.
 The code can be found [here](JoeMercer/lesson2).
 
 
+### Lesson 3: cylinder, box, cone, torus
+[Lesson 3 on Youtube](https://youtu.be/qOcMhwmoWC8?si=HUv0ukbkz4BXbsQX)
+
+You will learn about basic objects used to create things.
+
+![red torus and green cone](screenshots/JoeMercer_lesson3_screen1.png)
+
+The code can be found [here](JoeMercer/lesson3).
+
+
