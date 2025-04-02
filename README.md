@@ -128,4 +128,19 @@ The code can be found in [Felbrigg/bonus](Felbrigg/bonus).
 
 ## Joe Mercer's POV-Ray lessons
 
-add some text here
+Joe Mercer POV-Ray lessons playlist can be found here: [Joe Mercer POV-Ray lessons](https://www.youtube.com/watch?v=YiXV4EPnTyg&list=PLlW5kivBxMYtCFiSnhlhceFsTSCeuJImm)
+
+### Lesson 0: installing POV-Ray on Windows
+[Lesson 0 on Youtube](https://youtu.be/YiXV4EPnTyg?si=7JCwjYlBefsdD_4e) how to install POV-Ray on Windows (the installer can be found on [www.povray.org](https://www.povray.org/))
+
+There is no code on this lesson.
+
+
+### Lesson 1: 
+[Lesson 1 on Youtube](https://youtu.be/1ZDWcEQrqsc?si=FIgKVPUI63EIWVwX) 
+
+![balls](screenshots/JoeMercer_lesson1_bonus1.png)
+
+The code can be found [here](JoeMercer/lesson1).
+
+
