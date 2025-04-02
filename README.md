@@ -136,7 +136,7 @@ Joe Mercer POV-Ray lessons playlist can be found here: [Joe Mercer POV-Ray lesso
 There is no code on this lesson.
 
 
-### Lesson 1: 
+### Lesson 1: balls (it's start, right ?)
 [Lesson 1 on Youtube](https://youtu.be/1ZDWcEQrqsc?si=FIgKVPUI63EIWVwX) Getting started. You will create balls and learn about colors.
 
 Here is what you will create:
@@ -145,5 +145,16 @@ Here is what you will create:
 Nice start, isn't it?
 
 The code can be found [here](JoeMercer/lesson1).
+
+
+### Lesson 2: transformations
+[Lesson 2 on Youtube](https://youtu.be/h4y0aami5XI?si=UKPCwsAuoedaozfN) 
+
+You will learn about transformation: scale, rotate, translate, and also about "sky sphere" gradient.
+It is used to create a realistic sky. 
+
+![deformed ball](screenshots/JoeMercer_lesson2_screen1.png)
+
+The code can be found [here](JoeMercer/lesson2).
 
 
