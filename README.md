@@ -26,15 +26,18 @@ POV-Ray lessons somewhere).
 
 * Friedrich A. Lohmüller [tutorial](https://www.f-lohmueller.de/index.htm), available in several languages. Friedrich is now deceased (RIP) but thanks to his wife his work did not disappear.
 
+* a PDF file "A short introduction to POV-Ray" from a german university. file availaible [here](https://sus.ziti.uni-heidelberg.de/Lehre/SS_Tools/POVRAY/POVRAY_PeterFischer.pdf)
+
+* a PDF file from an american university: [AM 205 POV-Ray tutorial](https://people.math.wisc.edu/~chr/am205/g_act/am205_povray.pdf).
+
+* 25 POV-Ray scenes, with the code and screenshots. It's [here on github](https://github.com/susam/pov25).
+
 * Build a [Tron lightcycle in POV-Ray](https://youtu.be/AxiEZKNh_1E?si=KYf5Cmt4f5NAG5ni). This youtube lesson made by Pixelpaws 3D is very nice. The code is not included on this github repository, you can find it on the video description for a small fee. Direct link to scene [here](https://pixelpaws3d.gumroad.com/l/atbbf). Find more on his [Artstation space](https://www.artstation.com/dcmarriott).
 
 There are probably more useful resources.
 
 
 Now, the lessons:
-
-
-
 
 
 ## Felbrigg's POV-Ray lessons
@@ -165,6 +168,33 @@ You will learn about basic objects used to create things.
 
 ![red torus and green cone](screenshots/JoeMercer_lesson3_screen1.png)
 
-The code can be found [here](JoeMercer/lesson3).
+The code can be found [here](JoeMercer/lesson3). Some parts are commented, using the standard C-style comment sign. You can remove the comments as you experiment with the code by watching the video at the same time.
+
+
+### Lesson 4: rotations, color maps, image maps
+[Lesson 4 on Youtube](https://youtu.be/rMg5qtROb8M?si=zaYWkO9dFDobrEmf)
+
+You will learn a lot in this lesson: rotation, color maps, and how to map a color gradient or an image on a surface, which is very useful!
+
+box rotated:
+![box rotated](screenshots/JoeMercer_lesson4_screen1.png)
+
+gradients mapped on a box:
+![box with color gradient](screenshots/JoeMercer_lesson4_screen2.png)
+
+![box with color gradient](screenshots/JoeMercer_lesson4_screen3.png)
+
+
+The code can be found [here](JoeMercer/lesson4). Some parts are commented, using the standard C-style comment sign. You can remove the comments as you experiment with the code by watching the video at the same time. The folder also contains the image which will mapped on the box. You can use it directly.
+There are also the code for the grids that are used at the begining of the lesson.
+
+Final screenshot:
+![box with an image](screenshots/JoeMercer_lesson4_screen4.png)
+
+
+
+
+
+
 
 
