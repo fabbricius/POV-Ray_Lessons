@@ -176,20 +176,51 @@ The code can be found [here](JoeMercer/lesson3). Some parts are commented, using
 
 You will learn a lot in this lesson: rotation, color maps, and how to map a color gradient or an image on a surface, which is very useful!
 
-box rotated:
+Box rotated:
 ![box rotated](screenshots/JoeMercer_lesson4_screen1.png)
 
-gradients mapped on a box:
+Gradients mapped on a box:
 ![box with color gradient](screenshots/JoeMercer_lesson4_screen2.png)
 
-![box with color gradient](screenshots/JoeMercer_lesson4_screen3.png)
+Gradient with 3 colors:
+![box with 3-colors gradient](screenshots/JoeMercer_lesson4_screen3.png)
 
 
 The code can be found [here](JoeMercer/lesson4). Some parts are commented, using the standard C-style comment sign. You can remove the comments as you experiment with the code by watching the video at the same time. The folder also contains the image which will mapped on the box. You can use it directly.
 There are also the code for the grids that are used at the begining of the lesson.
 
 Final screenshot:
-![box with an image](screenshots/JoeMercer_lesson4_screen4.png)
+![box with an image mapped on it](screenshots/JoeMercer_lesson4_screen4.png)
+
+
+
+### Lesson 5: placing image maps on curved objects
+[Lesson 5 on Youtube](https://youtu.be/KlVpVEBvp-g?si=X0nzZRVa-7wM7XTh)
+
+In this lesson you will learn about image mapping. There are severla type of mapping, and each of them are adapted to what you want to map them on.
+
+Iimage mapped on a box:
+![grid with image on box](screenshots/JoeMercer_lesson5_screen1.png)
+
+The same image mapped on a cylinder:
+![grid with image on cylinder](screenshots/JoeMercer_lesson5_screen2.png)
+
+
+The code can be found [here](JoeMercer/lesson5). The images used in the messon are there, too. I did a screenshot on youtube as fullscreen and modified the resolution to match what Joe was using. Everything is ready to compile.
+There are also the code for the images presented by Joe to explain the different types of mapping and how they must be used on curved objects. Among them is the landscape that Joe maps on the cylinder, and also the world map.
+
+Understanding the type of maps:
+![Two kinds of image maps](screenshots/JoeMercer_lesson5_screen3.png)
+
+Mapping a landscape on a cylinder:
+![landscape mapped](screenshots/JoeMercer_lesson5_screen4.png)
+
+Mapping an image on a box, a cylinder and a thiner cylinder:
+![several kind of mapping](screenshots/JoeMercer_lesson5_screen5.png)
+
+World Map, mapped on a sphere:
+![map on sphere](screenshots/JoeMercer_lesson5_screen6.png)
+
 
 
 
