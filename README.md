@@ -131,6 +131,8 @@ A small tip when objects obtained by the mean of a "diff" are failing.
 The code can be found in [Felbrigg/bonus](Felbrigg/bonus).
 
 
+---
+
 
 ## Joe Mercer's POV-Ray lessons
 
@@ -245,6 +247,7 @@ Then an image will be mapped on the pot to obtain the final pot:
 
 ![pot with image](screenshots/JoeMercer_lesson6_screen4.png)
 
+The code for this essentail lesson can be found [here](JoeMercer/lesson6)
 
 
 
