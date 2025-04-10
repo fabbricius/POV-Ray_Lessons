@@ -40,6 +40,9 @@ There are probably more useful resources.
 Now, the lessons:
 
 
+---
+
+
 ## Felbrigg's POV-Ray lessons
 
 The playlist can be found [here](https://youtube.com/playlist?list=PLmsmiTEKs42uwPUFC06tFV9_4OlZLfOZi&si=bBx6W82t9Y6suvpp).
