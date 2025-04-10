@@ -199,7 +199,7 @@ Final screenshot:
 
 In this lesson you will learn about image mapping. There are severla type of mapping, and each of them are adapted to what you want to map them on.
 
-Iimage mapped on a box:
+Image mapped on a box:
 ![grid with image on box](screenshots/JoeMercer_lesson5_screen1.png)
 
 The same image mapped on a cylinder:
@@ -221,6 +221,26 @@ Mapping an image on a box, a cylinder and a thiner cylinder:
 World Map, mapped on a sphere:
 ![map on sphere](screenshots/JoeMercer_lesson5_screen6.png)
 
+
+### Lesson 6: S.O.R. (Surface of revolution)
+
+In this lesson, you will learn a new way of creating curved objects: by entering coordinates of points that will be linked one to the other in order to create a nice curve. 
+
+[Lesson 6 on Youtube](https://youtu.be/QKqO5V8FYPU?si=xrziI8zA5kuL9Ek-)
+
+Look at the nice pot you will create:
+![red pot](screenshots/JoeMercer_lesson6_screen1.png)
+
+This pot is constructed by the means of SOR (Surface of Revolution): points are entered, then the line obtained is rotated around an axis. The pot above is created this way:
+
+![pot in 2D](screenshots/JoeMercer_lesson6_screen2.png)
+
+Then the pot will be "digged":
+![pot digged](screenshots/JoeMercer_lesson6_screen3.png)
+
+Then an image will be mapped on the pot to obtain the final pot:
+
+![pot with image](screenshots/JoeMercer_lesson6_screen4.png)
 
 
 
