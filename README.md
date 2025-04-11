@@ -273,31 +273,44 @@ From top to bottom:
 - linear spline
 
 With five points (sub-lessons d and e):
+
 ![5 points](screenshots/JoeMercer_lesson7_screen5.png)
 
 By improving the spline (Bézier), you get this:
+
 ![nice handle](screenshots/JoeMercer_lesson7_screen6.png)
 
-Comparing splines (sub-lessons 
+Comparing splines:
+
 ![comparing splines 2](screenshots/JoeMercer_lesson7_screen7.png)
+
 From left to right:
 - linear spline
 - cubic spline
 - linear spline
 
-The rest of the lesson uses what was learned before to build a beautiful coffee cup that is drawn here:
+
+The rest of the lesson uses what was learned before to build a coffee cup that is drawn here in 2D:
+
 ![coffee cup plan](screenshots/JoeMercer_lesson7_screen8.png)
 
 After coding this into POV-Ray (look for files JoeMercerLesson7Cup files):
+
 ![coffee cup](screenshots/JoeMercer_lesson7_screen9.png)
 
 Then Joe will it more thickness:
 ![coffee cup 2](screenshots/JoeMercer_lesson7_screen10.png)
 
-Then an image will be mapped to it.
+Then an image will be mapped to it. The final coffee cup is shown here:
+
 ![final coffee cup](screenshots/JoeMercer_lesson7_screen11.png)
 
 The code can be found [here](JoeMercer/lesson7). 
+
+This is the last lesson. In the (non-existing) next lesson, Joe was going to talk about triangles and polygon. Too bad he stopped his super tutorial. Thanks to him anyway for the first lessons, they are great.
+
+
+
 
 
 
