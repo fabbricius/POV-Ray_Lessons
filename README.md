@@ -247,10 +247,57 @@ Then an image will be mapped on the pot to obtain the final pot:
 
 ![pot with image](screenshots/JoeMercer_lesson6_screen4.png)
 
-The code for this essentail lesson can be found [here](JoeMercer/lesson6)
+The code for this essential lesson can be found [here](JoeMercer/lesson6)
 
 
+### Lesson 7: sphere sweeps, spline, unions
+[Lesson 7 on Youtube](
 
+In this lesson you will learn about sweeps. 
+
+First sphere moves to another position with a linear spline:
+![blah blah](screenshots/JoeMercer_lesson7_screen1.png)
+
+The same with four points, but still on a linear spline. You get a baseball bat:
+![blah blah](screenshots/JoeMercer_lesson7_screen2.png)
+
+And now you use a cubic spline:
+![blah blah](screenshots/JoeMercer_lesson7_screen3.png)
+
+The 'b' spline [Bézier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve) is similar. Joe compares the 3 types of splines in sub-lesson c (in my repo it's file JoeMercerLesson7c.pov):
+
+![comparing splines](screenshots/JoeMercer_lesson7_screen4.png)
+From top to bottom:
+- Bézier spline (nice smooth transition)
+- cubic spline
+- linear spline
+
+With five points (sub-lessons d and e):
+![5 points](screenshots/JoeMercer_lesson7_screen5.png)
+
+By improving the spline (Bézier), you get this:
+![nice handle](screenshots/JoeMercer_lesson7_screen6.png)
+
+Comparing splines (sub-lessons 
+![comparing splines 2](screenshots/JoeMercer_lesson7_screen7.png)
+From left to right:
+- linear spline
+- cubic spline
+- linear spline
+
+The rest of the lesson uses what was learned before to build a beautiful coffee cup that is drawn here:
+![coffee cup plan](screenshots/JoeMercer_lesson7_screen8.png)
+
+After coding this into POV-Ray (look for files JoeMercerLesson7Cup files):
+![coffee cup](screenshots/JoeMercer_lesson7_screen9.png)
+
+Then Joe will it more thickness:
+![coffee cup 2](screenshots/JoeMercer_lesson7_screen10.png)
+
+Then an image will be mapped to it.
+![final coffee cup](screenshots/JoeMercer_lesson7_screen11.png)
+
+The code can be found [here](JoeMercer/lesson7). 
 
 
 
