@@ -43,6 +43,9 @@ The code can be found in the tuto_josie.pov in the [more_tutorials folder](more_
 There are probably more useful resources.
 
 
+---
+
+
 Now, the lessons:
 
 
