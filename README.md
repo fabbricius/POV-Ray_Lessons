@@ -36,10 +36,8 @@ POV-Ray lessons somewhere).
 
 * How to create a cup in POV-Ray (lesson in spanish): [Cómo crear una COPA en POV-RAY](https://youtu.be/IJnfv8B5lFw?si=JswceNnbBRgLVLyj)
 In this short lesson you will create a glass of wine. It's in spanish but you can translate it into any language (I've watched it with french subtitles).
+The code can be found in the tuto_josie.pov in the [more_tutorials folder](more_tutorials). Here is what you will obtain: ![ball](screenshots/Josie_M_screen1.png)
 
-![ball](screenshots/Josie_M_screen1.png)
-
-The code can be found in the tuto_josie.pov in the [more_tutorials folder](more_tutorials).
 
 
 There are probably more useful resources.
