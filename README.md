@@ -7,9 +7,10 @@ This repo contains the codes shown in several POV-Ray tutorials I could find on 
 
 [Joe Mercer](#joe-mercers-pov-ray-lessons)
 
-[more_tutorials](#more-tutorials)
+The [more_tutorials](#more-tutorials) folder contains several single-video tutorials that are availables on youtube.
 
-[More resources] There are also some resources I gathered.
+[More resources] (#here-are-some-other-pov-ray-resources)
+There are also some resources I gathered.
 
 There is also a **screenshots** folder that contains the images used
 in this readme.
