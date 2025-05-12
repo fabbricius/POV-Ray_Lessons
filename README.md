@@ -9,7 +9,7 @@ This repo contains the codes shown in several POV-Ray tutorials I could find on 
 
 The [more_tutorials](#more-tutorials) folder contains several single-video tutorials that are availables on youtube.
 
-[More resources] (#here-are-some-other-pov-ray-resources)
+[More resources](#here-are-some-other-pov-ray-resources)
 There are also some resources I gathered.
 
 There is also a **screenshots** folder that contains the images used
@@ -304,7 +304,10 @@ This is the last lesson. In the (non-existing) next lesson, Joe was going to tal
 
 ## More tutorials
 
-to add here !
+* How to create a cup in POV-Ray (lesson in spanish): [Cómo crear una COPA en POV-RAY](https://youtu.be/IJnfv8B5lFw?si=JswceNnbBRgLVLyj)
+In this short lesson you will create a glass of wine. It's in spanish but you can translate it into any language (I've watched it with french subtitles).
+The code can be found in the tuto_josie.pov in the [more_tutorials folder](more_tutorials). Here is what you will obtain: ![ball](screenshots/Josie_M_screen1.png)
+
 
 
 ## Here are some other POV-Ray resources:
@@ -320,10 +323,6 @@ to add here !
 * 25 POV-Ray scenes, with the code and screenshots. It's [here on github](https://github.com/susam/pov25).
 
 * Build a [Tron lightcycle in POV-Ray](https://youtu.be/AxiEZKNh_1E?si=KYf5Cmt4f5NAG5ni). This youtube lesson made by Pixelpaws 3D is very nice. The code is not included on this github repository, you can find it on the video description for a small fee. Direct link to scene [here](https://pixelpaws3d.gumroad.com/l/atbbf). Find more on his [Artstation space](https://www.artstation.com/dcmarriott).
-
-* How to create a cup in POV-Ray (lesson in spanish): [Cómo crear una COPA en POV-RAY](https://youtu.be/IJnfv8B5lFw?si=JswceNnbBRgLVLyj)
-In this short lesson you will create a glass of wine. It's in spanish but you can translate it into any language (I've watched it with french subtitles).
-The code can be found in the tuto_josie.pov in the [more_tutorials folder](more_tutorials). Here is what you will obtain: ![ball](screenshots/Josie_M_screen1.png)
 
 
 
