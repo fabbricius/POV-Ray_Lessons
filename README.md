@@ -1,9 +1,15 @@
 # POV-Ray_Lessons
 Code of YouTube POV-Ray tutorials. It will be easier for you to experiment with.
 
-This repo contains the codes shown in the YT POV-Ray tutorials I could find. There are two folders: 
+This repo contains the codes shown in several POV-Ray tutorials I could find on Youtube. There are three folders: 
 
-[Felbrigg](#felbriggs-pov-ray-lessons) and [Joe Mercer](#joe-mercers-pov-ray-lessons)
+[Felbrigg](#felbriggs-pov-ray-lessons)
+
+[Joe Mercer](#joe-mercers-pov-ray-lessons)
+
+[more_tutorials](#more-tutorials)
+
+[More resources] There are also some resources I gathered.
 
 There is also a **screenshots** folder that contains the images used
 in this readme.
@@ -17,30 +23,6 @@ uploaded on youtube and I am grateful they did that. You have a nice
 introduction to POV-Ray with them. They are many tutorials available
 on internet, although not on video (and they are probably more YT
 POV-Ray lessons somewhere).
-
-
-
-### Here are some other POV-Ray resources:
-
-* The official [POV-Ray tutorial](https://www.povray.org/documentation/3.7.0/t2_0.html)
-
-* Friedrich A. Lohmüller [tutorial](https://www.f-lohmueller.de/index.htm), available in several languages. Friedrich is now deceased (RIP) but thanks to his wife his work did not disappear.
-
-* a PDF file "A short introduction to POV-Ray" from a german university. file availaible [here](https://sus.ziti.uni-heidelberg.de/Lehre/SS_Tools/POVRAY/POVRAY_PeterFischer.pdf)
-
-* a PDF file from an american university: [AM 205 POV-Ray tutorial](https://people.math.wisc.edu/~chr/am205/g_act/am205_povray.pdf).
-
-* 25 POV-Ray scenes, with the code and screenshots. It's [here on github](https://github.com/susam/pov25).
-
-* Build a [Tron lightcycle in POV-Ray](https://youtu.be/AxiEZKNh_1E?si=KYf5Cmt4f5NAG5ni). This youtube lesson made by Pixelpaws 3D is very nice. The code is not included on this github repository, you can find it on the video description for a small fee. Direct link to scene [here](https://pixelpaws3d.gumroad.com/l/atbbf). Find more on his [Artstation space](https://www.artstation.com/dcmarriott).
-
-* How to create a cup in POV-Ray (lesson in spanish): [Cómo crear una COPA en POV-RAY](https://youtu.be/IJnfv8B5lFw?si=JswceNnbBRgLVLyj)
-In this short lesson you will create a glass of wine. It's in spanish but you can translate it into any language (I've watched it with french subtitles).
-The code can be found in the tuto_josie.pov in the [more_tutorials folder](more_tutorials). Here is what you will obtain: ![ball](screenshots/Josie_M_screen1.png)
-
-
-
-There are probably more useful resources.
 
 
 ---
@@ -319,7 +301,32 @@ The code can be found [here](JoeMercer/lesson7).
 This is the last lesson. In the (non-existing) next lesson, Joe was going to talk about triangles and polygon. Too bad he stopped his super tutorial. Thanks to him anyway for the first lessons, they are great.
 
 
+## More tutorials
 
+to add here !
+
+
+## Here are some other POV-Ray resources:
+
+* The official [POV-Ray tutorial](https://www.povray.org/documentation/3.7.0/t2_0.html)
+
+* Friedrich A. Lohmüller [tutorial](https://www.f-lohmueller.de/index.htm), available in several languages. Friedrich is now deceased (RIP) but thanks to his wife his work did not disappear.
+
+* a PDF file "A short introduction to POV-Ray" from a german university. file availaible [here](https://sus.ziti.uni-heidelberg.de/Lehre/SS_Tools/POVRAY/POVRAY_PeterFischer.pdf)
+
+* a PDF file from an american university: [AM 205 POV-Ray tutorial](https://people.math.wisc.edu/~chr/am205/g_act/am205_povray.pdf).
+
+* 25 POV-Ray scenes, with the code and screenshots. It's [here on github](https://github.com/susam/pov25).
+
+* Build a [Tron lightcycle in POV-Ray](https://youtu.be/AxiEZKNh_1E?si=KYf5Cmt4f5NAG5ni). This youtube lesson made by Pixelpaws 3D is very nice. The code is not included on this github repository, you can find it on the video description for a small fee. Direct link to scene [here](https://pixelpaws3d.gumroad.com/l/atbbf). Find more on his [Artstation space](https://www.artstation.com/dcmarriott).
+
+* How to create a cup in POV-Ray (lesson in spanish): [Cómo crear una COPA en POV-RAY](https://youtu.be/IJnfv8B5lFw?si=JswceNnbBRgLVLyj)
+In this short lesson you will create a glass of wine. It's in spanish but you can translate it into any language (I've watched it with french subtitles).
+The code can be found in the tuto_josie.pov in the [more_tutorials folder](more_tutorials). Here is what you will obtain: ![ball](screenshots/Josie_M_screen1.png)
+
+
+
+There are probably more useful resources.
 
 
 
