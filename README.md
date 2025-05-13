@@ -306,11 +306,13 @@ This is the last lesson. In the (non-existing) next lesson, Joe was going to tal
 
 * How to create a cup in POV-Ray (lesson in spanish): [Cómo crear una COPA en POV-RAY](https://youtu.be/IJnfv8B5lFw?si=JswceNnbBRgLVLyj)
 In this short lesson you will create a glass of wine. It's in spanish but you can translate it into any language (I've watched it with french subtitles).
-The code can be found in the tuto_josie.pov ![tuto_josie.pov](more_tutorials/tuto_josie.pov in the [more_tutorials folder](more_tutorials). Here is what you will obtain: ![ball](screenshots/Josie_M_screen1.png)
+The code can be found in the ![tuto_josie.pov](more_tutorials/tuto_josie.pov) file, in the [more_tutorials folder](more_tutorials).
+Here is what you will obtain: ![ball](screenshots/Josie_M_screen1.png)
 
 * Render Geometric Shapes on a Realistic Environment: [Render Geometric Shapes](https://youtu.be/TaX6rF4BvjY)
 You will create many stuff in this lesson. There are very few explaination, but what's nice in POV-Ray is that you can just look at the code to see how it's made!
-The code can be found in the makta_project.pov in the [more_tutorials folder](more_tutorials). Here is what you will obtain: ![shapes](screenshots/makta_project_thumbnail.png)
+The code can be found in the makta_project.pov in the [more_tutorials folder](more_tutorials).
+Here is what you will obtain: ![shapes](screenshots/makta_project_thumbnail.png)
 
 
 ## Here are some other POV-Ray resources:
