@@ -60,7 +60,7 @@ sphere {
   <3, 2, -2>, 0.8
   pigment {
     image_map{
-      gif "cavelink.gif"
+      gif "makta_map.gif"
       map_type 0 
       interpolate 2
     }
