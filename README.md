@@ -1,6 +1,8 @@
 # POV-Ray_Lessons
 Code of YouTube POV-Ray tutorials. It will be easier for you to experiment with.
 
+For French audience: lisez cette page directement en Français! (traduction par gg translate) C'est [par ici](https://github-com.translate.goog/fabbricius/POV-Ray_Lessons?_x_tr_sl=bg&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp).
+
 This repo contains the codes shown in several POV-Ray tutorials I could find on Youtube. There are three folders: 
 
 [Felbrigg](#felbriggs-pov-ray-lessons)
@@ -302,14 +304,15 @@ The code can be found [here](JoeMercer/lesson7).
 This is the last lesson. In the (non-existing) next lesson, Joe was going to talk about triangles and polygon. Too bad he stopped his super tutorial. Thanks to him anyway for the first lessons, they are great.
 
 
-## More tutorials
+## More tutorials 1: Josie's cup
 
-* How to create a cup in POV-Ray (lesson in spanish): [Cómo crear una COPA en POV-RAY](https://youtu.be/IJnfv8B5lFw?si=JswceNnbBRgLVLyj)
+How to create a cup in POV-Ray (lesson in spanish): [Cómo crear una COPA en POV-RAY](https://youtu.be/IJnfv8B5lFw?si=JswceNnbBRgLVLyj)
 In this short lesson you will create a glass of wine. It's in spanish but you can translate it into any language (I've watched it with french subtitles).
 The code can be found in the ![tuto_josie.pov](more_tutorials/tuto_josie.pov) file, in the [more_tutorials folder](more_tutorials).
 Here is what you will obtain: ![ball](screenshots/Josie_M_screen1.png)
 
-* Render Geometric Shapes on a Realistic Environment: [Render Geometric Shapes](https://youtu.be/TaX6rF4BvjY)
+## More tutorials 2: Geometric Shapes
+Render Geometric Shapes on a Realistic Environment: [Render Geometric Shapes](https://youtu.be/TaX6rF4BvjY)
 You will create many stuff in this lesson. There are very few explaination, but what's nice in POV-Ray is that you can just look at the code to see how it's made!
 The code can be found in the ![makta_project.pov](more_tutorials/makta_project.pov) file, in the [more_tutorials folder](more_tutorials). There is also a small gif file, makta_map.gif![makta_map.gif](more_tutorials/makta_map.gif), which is used as an image *mapped* onto a sphere (sunglasses with a nose and a smile). This file differs a bit from the one used in the video, but I had to do this as the original file is not given.
 Here is what you will get: ![shapes](screenshots/makta_project_thumbnail.png)
@@ -317,18 +320,21 @@ Here is what you will get: ![shapes](screenshots/makta_project_thumbnail.png)
 
 ## Here are some other POV-Ray resources:
 
-* The official [POV-Ray tutorial](https://www.povray.org/documentation/3.7.0/t2_0.html)
+* The official [POV-Ray tutorial](https://www.povray.org/documentation/)
+This is the official documentation from the POV-Ray site. A bit hard if you start, in my opinion.
 
-* Friedrich A. Lohmüller [tutorial](https://www.f-lohmueller.de/index.htm), available in several languages. Friedrich is now deceased (RIP) but thanks to his wife his work did not disappear.
+* Friedrich A. Lohmüller [tutorial](https://www.f-lohmueller.de/index.htm), available in several languages. Friedrich is now deceased (RIP) but thanks to his wife his work did not disappear. Great documentation!
+![f-lohmueller](screenshots/flohmueller_site.png)
 
 * a PDF file "A short introduction to POV-Ray" from a german university. file availaible [here](https://sus.ziti.uni-heidelberg.de/Lehre/SS_Tools/POVRAY/POVRAY_PeterFischer.pdf)
 
 * a PDF file from an american university: [AM 205 POV-Ray tutorial](https://people.math.wisc.edu/~chr/am205/g_act/am205_povray.pdf).
 
 * 25 POV-Ray scenes, with the code and screenshots. It's [here on github](https://github.com/susam/pov25).
+One example: ![25_scenes](screenshots/25_scenes.png)
 
 * Build a [Tron lightcycle in POV-Ray](https://youtu.be/AxiEZKNh_1E?si=KYf5Cmt4f5NAG5ni). This youtube lesson made by Pixelpaws 3D is very nice. The code is not included on this github repository, you can find it on the video description for a small fee. Direct link to scene [here](https://pixelpaws3d.gumroad.com/l/atbbf). Find more on his [Artstation space](https://www.artstation.com/dcmarriott).
-
+The Tron motorcycle in question: ![Tron](screenshots/Tron.png)
 
 
 There are probably more useful resources.
