@@ -336,6 +336,9 @@ One example: ![25_scenes](screenshots/25_scenes.png)
 * Build a [Tron lightcycle in POV-Ray](https://youtu.be/AxiEZKNh_1E?si=KYf5Cmt4f5NAG5ni). This youtube lesson made by Pixelpaws 3D is very nice. The code is not included on this github repository, you can find it on the video description for a small fee. Direct link to scene [here](https://pixelpaws3d.gumroad.com/l/atbbf). Find more on his [Artstation space](https://www.artstation.com/dcmarriott).
 The Tron motorcycle in question: ![Tron](screenshots/Tron.png)
 
+* a nice POV-Ray site in :fr: [povray.free.fr](http://povray.free.fr/)
+Here is a (google-powered) english translation: [povray.free.fr in english](https://povray-free-fr.translate.goog/?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=fr&_x_tr_pto=wapp) 
+A very well-done tutorial. One of the examples: ![povraydotfreedotfr](screenshots/povray_free_fr.png)
 
 There are probably more useful resources.
 
