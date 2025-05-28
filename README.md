@@ -336,9 +336,19 @@ One example: ![25_scenes](screenshots/25_scenes.png)
 * Build a [Tron lightcycle in POV-Ray](https://youtu.be/AxiEZKNh_1E?si=KYf5Cmt4f5NAG5ni). This youtube lesson made by Pixelpaws 3D is very nice. The code is not included on this github repository, you can find it on the video description for a small fee. Direct link to scene [here](https://pixelpaws3d.gumroad.com/l/atbbf). Find more on his [Artstation space](https://www.artstation.com/dcmarriott).
 The Tron motorcycle in question: ![Tron](screenshots/Tron.png)
 
-* a nice POV-Ray site in :fr: [povray.free.fr](http://povray.free.fr/)
+* a nice POV-Ray site in :fr: french :fr: [povray.free.fr](http://povray.free.fr/)
 Here is a (google-powered) english translation: [povray.free.fr in english](https://povray-free-fr.translate.goog/?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=fr&_x_tr_pto=wapp) 
-A very well-done tutorial. One of the examples: ![povraydotfreedotfr](screenshots/povray_free_fr.png)
+
+A very well-done tutorial. The site is obviously old but contains a lot os useful stuff. One of the examples:
+![povraydotfreedotfr](screenshots/povray_free_fr.png)
+
+* another nice POV-Ray tutorial in :fr: french :fr: [ancien_sdz](http://sdz.tdct.org/sdz/ov-ray.html)
+Here is a (google-powered) english translation: [tutorial SDZ in english](https://sdz-tdct-org.translate.goog/sdz/ov-ray.html?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=fr&_x_tr_pto=wapp)
+
+This site explains a lot of concepts in a single page. I highly recommend it! One of the examples:
+![hexagon_sdz](screenshots/sdz_hexagon.png)
+
+http://sdz.tdct.org/sdz/ov-ray.html
 
 There are probably more useful resources.
 
