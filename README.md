@@ -1,7 +1,7 @@
 # POV-Ray_Lessons
 Code of YouTube POV-Ray tutorials. It will be easier for you to experiment with.
 
-For French audience: lisez cette page directement en Français! (traduction par gg translate) C'est [par ici](https://github-com.translate.goog/fabbricius/POV-Ray_Lessons?_x_tr_sl=bg&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp).
+:fr: For French audience: lisez cette page directement en Français! (traduction par gg translate) C'est [par ici](https://github-com.translate.goog/fabbricius/POV-Ray_Lessons?_x_tr_sl=bg&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp).
 
 This repo contains the codes shown in several POV-Ray tutorials I could find on Youtube. There are three folders: 
 
