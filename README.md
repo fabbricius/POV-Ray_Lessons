@@ -352,7 +352,7 @@ Renata has several repositories with POV-Ray code.
   The Tron motorcycle in question:
   ![Tron](screenshots/Tron.png)
 
-*Xah Lee's [POV-Ray tutorial](http://xahlee.info/3d/povray.html). A very clean and concise tutorial. I highly recommend [Xah Lee website](http://xahlee.info) if you are also interested in a number of other subjects (Math, Coding, Emacs, ...)
+* Xah Lee's [POV-Ray tutorial](http://xahlee.info/3d/povray.html). A very clean and concise tutorial. I highly recommend [Xah Lee website](http://xahlee.info) if you are also interested in a number of other subjects (Math, Coding, Emacs, ...)
 
 * a nice POV-Ray site in :fr: french :fr: [povray.free.fr](http://povray.free.fr/)
 Here is a (google-powered) :uk: english :uk: translation: [povray.free.fr in english](https://povray-free-fr.translate.goog/?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=fr&_x_tr_pto=wapp) 
