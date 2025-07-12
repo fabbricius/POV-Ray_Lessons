@@ -349,8 +349,10 @@ Renata has several repositories with POV-Ray code.
 
 * Build a [Tron lightcycle in POV-Ray](https://youtu.be/AxiEZKNh_1E?si=KYf5Cmt4f5NAG5ni). This youtube lesson made by Pixelpaws 3D is very nice. The code is not included on this github repository, you can find it on the video description for a small fee. Direct link to scene [here](https://pixelpaws3d.gumroad.com/l/atbbf). Find more on his [Artstation space](https://www.artstation.com/dcmarriott).
 
-The Tron motorcycle in question:
-![Tron](screenshots/Tron.png)
+  The Tron motorcycle in question:
+  ![Tron](screenshots/Tron.png)
+
+*Xah Lee's [POV-Ray tutorial](http://xahlee.info/3d/povray.html). A very clean and concise tutorial. I highly recommend [Xah Lee website](http://xahlee.info) if you are also interested in a number of other subjects (Math, Coding, Emacs, ...)
 
 * a nice POV-Ray site in :fr: french :fr: [povray.free.fr](http://povray.free.fr/)
 Here is a (google-powered) :uk: english :uk: translation: [povray.free.fr in english](https://povray-free-fr.translate.goog/?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=fr&_x_tr_pto=wapp) 
