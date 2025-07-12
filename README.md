@@ -338,11 +338,13 @@ One example: ![25_scenes](screenshots/25_scenes.png)
 * Renata Gadelha POV-Ray resources:
 Renata has several repository with POV-Ray code.
 
-** POV-Ray 3D [Modelling examples](https://github.com/renatagadelha/povray).
+  ** POV-Ray 3D [Modelling examples](https://github.com/renatagadelha/povray).
+  One example:
+  ![Renata](screenshots/Renata_povray.png)
 
-** One [classroom](https://github.com/renatagadelha/povray-classroom) made in POV-Ray.
+  ** One [classroom](https://github.com/renatagadelha/povray-classroom) made in POV-Ray.
 
-** Sao Paulo [Art Museum](https://github.com/renatagadelha/povray-masp) in POV-Ray.
+  ** Sao Paulo [Art Museum](https://github.com/renatagadelha/povray-masp) in POV-Ray.
 
 
 * Build a [Tron lightcycle in POV-Ray](https://youtu.be/AxiEZKNh_1E?si=KYf5Cmt4f5NAG5ni). This youtube lesson made by Pixelpaws 3D is very nice. The code is not included on this github repository, you can find it on the video description for a small fee. Direct link to scene [here](https://pixelpaws3d.gumroad.com/l/atbbf). Find more on his [Artstation space](https://www.artstation.com/dcmarriott).
