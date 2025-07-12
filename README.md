@@ -304,18 +304,20 @@ The code can be found [here](JoeMercer/lesson7).
 This is the last lesson. In the (non-existing) next lesson, Joe was going to talk about triangles and polygon. Too bad he stopped his super tutorial. Thanks to him anyway for the first lessons, they are great.
 
 
-## More tutorials 1: Josie's cup
+## Josie's cup Tutorial:
 
 How to create a cup in POV-Ray (lesson in spanish): [Cómo crear una COPA en POV-RAY](https://youtu.be/IJnfv8B5lFw?si=JswceNnbBRgLVLyj)
 In this short lesson you will create a glass of wine. It's in spanish but you can translate it into any language (I've watched it with french subtitles).
 The code can be found in the ![tuto_josie.pov](more_tutorials/tuto_josie.pov) file, in the [more_tutorials folder](more_tutorials).
 Here is what you will obtain: ![ball](screenshots/Josie_M_screen1.png)
 
-## More tutorials 2: Geometric Shapes
+##  MakTa Project Tutorial, Geometric Shapes:
 Render Geometric Shapes on a Realistic Environment: [Render Geometric Shapes](https://youtu.be/TaX6rF4BvjY)
 You will create many stuff in this lesson. There are very few explaination, but what's nice in POV-Ray is that you can just look at the code to see how it's made!
 The code can be found in the ![makta_project.pov](more_tutorials/makta_project.pov) file, in the [more_tutorials folder](more_tutorials). There is also a small gif file, makta_map.gif![makta_map.gif](more_tutorials/makta_map.gif), which is used as an image *mapped* onto a sphere (sunglasses with a nose and a smile). This file differs a bit from the one used in the video, but I had to do this as the original file is not given.
-Here is what you will get: ![shapes](screenshots/makta_project_thumbnail.png)
+
+Here is what you will get:
+![shapes](screenshots/makta_project_thumbnail.png)
 
 
 ## Here are some other POV-Ray resources:
@@ -330,14 +332,26 @@ This is the official documentation from the POV-Ray site. A bit hard if you star
 
 * a PDF file from an american university: [AM 205 POV-Ray tutorial](https://people.math.wisc.edu/~chr/am205/g_act/am205_povray.pdf).
 
-* 25 POV-Ray scenes, with the code and screenshots. It's [here on github](https://github.com/susam/pov25).
+* 25 POV-Ray scenes, with the code and screenshots. It's on [Susam's github repository](https://github.com/susam/pov25).
 One example: ![25_scenes](screenshots/25_scenes.png)
 
+* Renata Gadelha POV-Ray resources:
+Renata has several repository with POV-Ray code.
+
+** POV-Ray 3D [Modelling examples](https://github.com/renatagadelha/povray).
+
+** One [classroom](https://github.com/renatagadelha/povray-classroom) made in POV-Ray.
+
+** Sao Paulo [Art Museum](https://github.com/renatagadelha/povray-masp) in POV-Ray.
+
+
 * Build a [Tron lightcycle in POV-Ray](https://youtu.be/AxiEZKNh_1E?si=KYf5Cmt4f5NAG5ni). This youtube lesson made by Pixelpaws 3D is very nice. The code is not included on this github repository, you can find it on the video description for a small fee. Direct link to scene [here](https://pixelpaws3d.gumroad.com/l/atbbf). Find more on his [Artstation space](https://www.artstation.com/dcmarriott).
-The Tron motorcycle in question: ![Tron](screenshots/Tron.png)
+
+The Tron motorcycle in question:
+![Tron](screenshots/Tron.png)
 
 * a nice POV-Ray site in :fr: french :fr: [povray.free.fr](http://povray.free.fr/)
-Here is a (google-powered) english translation: [povray.free.fr in english](https://povray-free-fr.translate.goog/?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=fr&_x_tr_pto=wapp) 
+Here is a (google-powered) :uk: english :uk: translation: [povray.free.fr in english](https://povray-free-fr.translate.goog/?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=fr&_x_tr_pto=wapp) 
 A very well-done tutorial. The site is obviously old but contains a lot os useful stuff. One of the examples:
 ![povraydotfreedotfr](screenshots/povray_free_fr.png)
 
