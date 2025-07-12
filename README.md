@@ -362,12 +362,12 @@ A very well-done tutorial. The site is obviously old but contains a lot os usefu
 * another nice POV-Ray tutorial in :fr: french :fr: [sdz.tdct.org/sdz/ov-ray.html](http://sdz.tdct.org/sdz/ov-ray.html)
 Here is a (google-powered) english translation: [tutorial SDZ in english](https://sdz-tdct-org.translate.goog/sdz/ov-ray.html?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=fr&_x_tr_pto=wapp)
 
-This site explains a lot of concepts in a single page. I highly recommend it! One of the examples:
-![hexagon_sdz](screenshots/sdz_hexagon.png)
+  This site explains a lot of concepts in a single page. I highly recommend it! One of the examples:
+  ![hexagon_sdz](screenshots/sdz_hexagon.png)
 
 
 
-There are probably more useful resources.
+There are probably more useful resources. feel free to send me other nice stuff, I will add them here!
 
 
 
